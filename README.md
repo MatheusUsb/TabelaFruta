@@ -1,4 +1,4 @@
-# TabelaFrutaSQL
+#TabelaFrutaSQL
 
 CREATE TABLE frutas (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
